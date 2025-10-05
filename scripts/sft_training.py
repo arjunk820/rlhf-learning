@@ -62,7 +62,7 @@ wandb.init(
     config={
         "model_name": model_name,
         "dataset_size": len(formatted_dataset),
-        "num_epochs": 3,
+        "num_epochs": 1,
         "batch_size": 4,
         "gradient_accumulation_steps": 4,
         "learning_rate": 5e-5,
