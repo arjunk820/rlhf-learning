@@ -103,6 +103,8 @@ Each tweet must include:
 3. **Quality:** Generated tweets feel natural and engaging
 4. **Experimentation:** Track what works and what doesn't
 
+I'd ideally like to use it to generate witty posts for me. Over time, I would track its success across quantitative metrics.
+
 ---
 
 **Focused on:**
